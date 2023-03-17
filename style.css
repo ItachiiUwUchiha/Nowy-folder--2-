@@ -2,8 +2,14 @@
     box-sizing: border-box;
 }
 body {
-    font-family: "Lato", sans-serif;
+    font-family: "Lato, sans-serif";
     color: #03295a;
+    background-color: rgba(197,0,0,0.5);
+}
+#container {
+    background-color: rgba(197,0,0,0.5);
+    text-align: center;
+    font-family: "Amatic SC",sans-serif;
 }
 h1{
     text-align: center;
@@ -18,4 +24,11 @@ div#titleDetails{
     text-align: center;
     font-size: larger;
     font-weight: bold;
+    font-family: "Amatic SC",sans-serif;
+}
+#PlanDnia {
+    background-color:rgba(197,0,0,0.5);
+    text-align: center;
+    font-size: medium;
+    font-family: "Amatic SC",sans-serif;
 }
