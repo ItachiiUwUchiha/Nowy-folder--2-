@@ -1,8 +1,9 @@
 * {
     box-sizing: border-box;
+    font-family: "Amatic SC",sans-serif;
 }
 body {
-    font-family: "Lato, sans-serif";
+    font-family: "Amatic SC",sans-serif;
     color: #03295a;
     background-color: rgba(197,0,0,0.5);
 }
@@ -19,6 +20,7 @@ h1{
 }
 div#titleDetails {
     margin-bottom: 2rem;
+    font-family: "Amatic SC",sans-serif;
 }
 div#titleDetails{
     text-align: center;
